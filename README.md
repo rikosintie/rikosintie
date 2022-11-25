@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Michael Hubbard</h1>
-<h3 align="center">Just another Network Engineer</h3>
+<h1 align="center">Hi, I'm Michael W Hubbard</h1>
+<h3 align="center">A repo for Network Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikosintie&label=Profile%20views&color=0e75b6&style=flat" alt="rikosintie" /> </p>
 
