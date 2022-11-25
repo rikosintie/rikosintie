@@ -44,6 +44,9 @@
 <p align="left" width="10%">
     <img width="10%" src="https://github.com/rikosintie/rikosintie/blob/main/images/juniper-certified-jncia-204px.png"> 
 </p>
+<p align="left" width="10%">
+    <img width="10%" src="https://github.com/rikosintie/rikosintie/blob/main/images/ecse-design.108.png"> 
+</p>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rikosintie&show_icons=true&locale=en&layout=compact" alt="rikosintie" /></p>
 
