@@ -57,9 +57,9 @@
 </br>
 </br>
 
-| ![ccna-RS](https://github.com/rikosintie/rikosintie/blob/main/images/ccna-RS.png) | ![Cisco NetDevices](https://github.com/rikosintie/rikosintie/blob/main/images/understanding-of-cisco-network-devices-204px.png) |
-| :--------:| :------------------------------: |
-| Cisco R/S | Understanding of Network Devices |
+| ![ccna-RS](https://github.com/rikosintie/rikosintie/blob/main/images/ccna-RS.png) | ![Cisco NetDevices](https://github.com/rikosintie/rikosintie/blob/main/images/understanding-of-cisco-network-devices-204px.png) | ![netsec](https://github.com/rikosintie/rikosintie/blob/main/images/understanding-net-sec-204.png) |
+| :--------:| :------------------------------: | :------------------------: |
+| Cisco R/S | Understanding of Network Devices | Understanding Net Security |
 
 </br>
 </br>
