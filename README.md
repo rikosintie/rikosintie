@@ -42,14 +42,16 @@
 <img src="https://img.shields.io/badge/iPerf3-Orange?style=for-the-badge" alt="iPerf3" data-canonical-src="https://img.shields.io/badge/iPerf3-Orange?style=for-the-badge;logoColor=white" style="max-width: 100%;">  
 
 
-<p><img align="left" src="https://github.com/rikosintie/rikosintie/blob/main/images/jncia-junos-204.png" alt="rikosintie" /></p>
-
-<p>&nbsp;<img align="center" src="https://github.com/rikosintie/rikosintie/blob/main/images/ecse-design.204.png" alt="rikosintie" /></p>
-
-<p>&nbsp;<img align="center" src="https://github.com/rikosintie/rikosintie/blob/main/images/aruba-ACSA-V2-204px.png" alt="rikosintie" /></p>
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rikosintie&show_icons=true&locale=en&layout=compact" alt="rikosintie" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rikosintie&show_icons=true&locale=en" alt="rikosintie" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rikosintie&show_icons=true&locale=en" alt="rikosintie" /></p>  
+</br>
+</br>
+</br>
+
+| ![jncia](https://github.com/rikosintie/rikosintie/blob/main/images/jncia-junos-204.png) | ![ecse](https://github.com/rikosintie/rikosintie/blob/main/images/ecse-design.204.png) | ![acsa](https://github.com/rikosintie/rikosintie/blob/main/images/aruba-ACSA-V2-204px.png) | ![ccna-sec](https://github.com/rikosintie/rikosintie/blob/main/images/cisco-ccna-security.png) |
+</br>
+</br>
+
+
