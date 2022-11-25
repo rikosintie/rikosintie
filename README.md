@@ -42,9 +42,9 @@
 <img src="https://img.shields.io/badge/iPerf3-Orange?style=for-the-badge" alt="iPerf3" data-canonical-src="https://img.shields.io/badge/iPerf3-Orange?style=for-the-badge;logoColor=white" style="max-width: 100%;">  
 
 
-<p><img align="left" src="https://github.com/rikosintie/rikosintie/blob/main/images/juniper-certified-jncia-204px.png" alt="rikosintie" /></p>
+<p><img align="left" src="https://github.com/rikosintie/rikosintie/blob/main/images/jncia-junos-204.png" alt="rikosintie" /></p>
 
-<p>&nbsp;<img align="center" src="https://github.com/rikosintie/rikosintie/blob/main/images/ecse-design.108.png" alt="rikosintie" /></p>
+<p>&nbsp;<img align="center" src="https://github.com/rikosintie/rikosintie/blob/main/images/ecse-design.204.png" alt="rikosintie" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rikosintie&show_icons=true&locale=en&layout=compact" alt="rikosintie" /></p>
 
