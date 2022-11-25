@@ -53,5 +53,10 @@
 | ![jncia](https://github.com/rikosintie/rikosintie/blob/main/images/jncia-junos-204.png) | ![ecse](https://github.com/rikosintie/rikosintie/blob/main/images/ecse-design.204.png) | ![acsa](https://github.com/rikosintie/rikosintie/blob/main/images/aruba-ACSA-V2-204px.png) | ![ccna-sec](https://github.com/rikosintie/rikosintie/blob/main/images/cisco-ccna-security.png) |
 </br>
 </br>
-
+</br>
+| ![ccns-RS](https://github.com/rikosintie/rikosintie/blob/main/images/ccna-RS.png) | ![Cisco NetDevices](https://github.com/rikosintie/rikosintie/blob/main/images/understanding-of-cisco-network-devices-204px.png) |
+| :-:| :-: |
+| Cisco R/S | Understanding of Network Devices |
+</br>
+</br>
 
