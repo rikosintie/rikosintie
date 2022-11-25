@@ -46,6 +46,10 @@
 
 <p>&nbsp;<img align="center" src="https://github.com/rikosintie/rikosintie/blob/main/images/ecse-design.204.png" alt="rikosintie" /></p>
 
+<p>&nbsp;<img align="center" src="https://github.com/rikosintie/rikosintie/blob/main/images/aruba-ACSA-V2-204px.png" alt="rikosintie" /></p>
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rikosintie&show_icons=true&locale=en&layout=compact" alt="rikosintie" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rikosintie&show_icons=true&locale=en" alt="rikosintie" /></p>
