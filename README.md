@@ -50,16 +50,19 @@
 </br>
 </br>
 
-| ![jncia](https://github.com/rikosintie/rikosintie/blob/main/images/jncia-junos-204.png) | ![ecse](https://github.com/rikosintie/rikosintie/blob/main/images/ecse-design.204.png) | ![acsa](https://github.com/rikosintie/rikosintie/blob/main/images/aruba-ACSA-V2-204px.png) | ![ccna-sec](https://github.com/rikosintie/rikosintie/blob/main/images/cisco-ccna-security.png) |
-| :------:| :----: | :------: | :-----------: |
-| Juniper | Ekahau | Aruba CX | Cisco Security|
+| ![jncia](https://github.com/rikosintie/rikosintie/blob/main/images/jncia-junos-204.png) | ![ecse](https://github.com/rikosintie/rikosintie/blob/main/images/ecse-design.204.png) | ![acsa](https://github.com/rikosintie/rikosintie/blob/main/images/aruba-ACSA-V2-204px.png) | ![ACS V2](https://github.com/rikosintie/rikosintie/blob/main/images/aruba-acsa-v1-204.png) |
+| :------:| :----: | :------: | :------------: |
+| Juniper | Ekahau | Aruba CX | Aruba Procurve |
 </br>
 </br>
 </br>
 
-| ![ccna-RS](https://github.com/rikosintie/rikosintie/blob/main/images/ccna-RS.png) | ![Cisco NetDevices](https://github.com/rikosintie/rikosintie/blob/main/images/understanding-of-cisco-network-devices-204px.png) | ![netsec](https://github.com/rikosintie/rikosintie/blob/main/images/understanding-net-sec-204.png) |
-| :--------:| :------------------------------: | :------------------------: |
-| Cisco R/S | Understanding of Network Devices | Understanding Net Security |
+
+
+
+| ![ccna-RS](https://github.com/rikosintie/rikosintie/blob/main/images/ccna-RS.png) | ![Cisco NetDevices](https://github.com/rikosintie/rikosintie/blob/main/images/understanding-of-cisco-network-devices-204px.png) | ![netsec](https://github.com/rikosintie/rikosintie/blob/main/images/understanding-net-sec-204.png) | ![ccna-sec](https://github.com/rikosintie/rikosintie/blob/main/images/cisco-ccna-security.png) |
+| :--------:| :------------------------------: | :------------------------: | :-----------------:
+| Cisco R/S | Understanding of Network Devices | Understanding Net Security | Cisco CCNA Security |
 
 </br>
 </br>
