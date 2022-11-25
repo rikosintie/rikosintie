@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Cisco,Juniper, Aruba, Ubiquti**
 
-- 📫 How to reach me **Michael.hubbard99<@>@gmail.com**
+- 📫 How to reach me **Michael.hubbard99<@>gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mwhubbard/](https://www.linkedin.com/in/mwhubbard/)
 
