@@ -41,7 +41,9 @@
 <img src="https://img.shields.io/badge/WireShark-green?style=for-the-badge" alt="VS Code" data-canonical-src="https://img.shields.io/badge/-nmap-green?style=for-the-badge;logoColor=white" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/iPerf3-Orange?style=for-the-badge" alt="iPerf3" data-canonical-src="https://img.shields.io/badge/iPerf3-Orange?style=for-the-badge;logoColor=white" style="max-width: 100%;">  
 
-
+<p align="left" width="10%">
+    <img width="10%" src="https://github.com/rikosintie/rikosintie/blob/main/images/juniper-certified-jncia-204px.png"> 
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rikosintie&show_icons=true&locale=en&layout=compact" alt="rikosintie" /></p>
 
